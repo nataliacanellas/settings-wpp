@@ -40,7 +40,7 @@ export const ViewIcon = styled.View`
 
 export const PrincipalIcon = styled(FontAwesome).attrs({
   name: "star",
-  size: 24,
+  size: 20,
   color: '#fff',
 })`
 

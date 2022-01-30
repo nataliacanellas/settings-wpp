@@ -10,7 +10,7 @@ import {
   ArrowIcon,
 } from './styles';
 
-const StarredMessages = () => {
+const Starred = () => {
   return (
     <Container>
       <Box>
@@ -26,4 +26,4 @@ const StarredMessages = () => {
   );
 }
 
-export default StarredMessages;
+export default Starred;
