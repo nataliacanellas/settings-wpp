@@ -11,6 +11,7 @@ export const Container = styled.View`
 
   background-color: #FFF;
   padding: 15px;
+  height: 64px;
 `;
 
 export const Profile = styled.TouchableOpacity`
