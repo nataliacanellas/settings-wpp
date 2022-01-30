@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 
 export const Container = styled.SafeAreaView`
   flex:1;
-  padding:15px;
+  background-color: #F2F1F5;
 
 `;
 
@@ -11,5 +11,6 @@ export const Title = styled.Text`
   font-weight: bold;
 
   margin-top: 40px;
+  margin-left: 15px;
 
 `;
